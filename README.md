@@ -1,8 +1,6 @@
 # Series_Temporales-TP
 Este repositorio contiene el trabajo práctico de la materia Series Temporales de la Carrera de Especialización en Inteligencia Artificial (CEIA) de la FIUBA.
 
-## Objetivo
-
 ## Parte I: SARIMA
 
 Serie temporal sobre tráfico aplicando SARIMA.
@@ -26,7 +24,7 @@ Serie temporal sobre tráfico aplicando redes neuronales de arquitectura GRU y L
 * Se comparan los resultados de las dos redes neuronales entre sí y con SARIMA.
 * Se extraen conclusiones.
 
-Colab: [RedesNeuronales](https://github.com/AnahiBazet/Series_Temporales-TP/blob/main/TPSeriesTemporales-RedesNeuronales.ipynb)
+Colab: [Redes Neuronales](https://github.com/AnahiBazet/Series_Temporales-TP/blob/main/TPSeriesTemporales-RedesNeuronales.ipynb)
 
 ## Presentación
 
